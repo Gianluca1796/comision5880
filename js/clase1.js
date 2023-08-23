@@ -58,3 +58,5 @@
 
 
 // alert("Haz registrado" + " " + cantidadDelProducto + " " + " de" +  nombreDelProducto + " en la categoría" + " " + categoriaDelProducto)
+
+
