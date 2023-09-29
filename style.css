@@ -1,0 +1,23 @@
+.textoAzul{
+    color: blue;
+}
+.fondoVerde{
+    background-color: green;
+}
+.parrafoGrande{
+    font-size: 20px;
+}
+.prueba{
+    border-radius: 2rem;
+    padding: 2rem;
+}
+
+.colorDeLetra{
+    color: red;
+}
+
+
+.dark-mode{
+    background-color: #1b1b1b;
+    color:white
+}
